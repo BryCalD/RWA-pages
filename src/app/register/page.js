@@ -60,7 +60,7 @@ export default function Page() {
       }
       // Validate the dob
       let dob = data.get('dob')
-      if(pass.length ==0){
+      if(dob.length ==0){
       errorMessage += ' No Date of Birth added, ';
       }
       // run the validator

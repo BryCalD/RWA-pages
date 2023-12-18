@@ -25,7 +25,6 @@ import DialogTitle from '@mui/material/DialogTitle';
 
 var validator = require("email-validator");
 
-
 export default function Page() {
 
 
